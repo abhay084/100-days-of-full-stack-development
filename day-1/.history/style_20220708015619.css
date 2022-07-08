@@ -1,0 +1,12 @@
+body{
+    background-color: white;
+    margin: 0;
+    background-image: url("images/ghost.jpg");
+}
+
+#d1{
+    float:right;
+    margin: 50px;
+    color: wh;
+}
+
